@@ -1,0 +1,9 @@
+* listopia
+
+List manipulation library inspired by Haskell package Data.List
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/Dimercel/listopia.git |
+| commit  | 2d2a1a3                                      |
+| systems | listopia                                     |
+|---------+----------------------------------------------|
