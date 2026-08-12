@@ -7,4 +7,4 @@ List manipulation library inspired by Haskell package Data.List
 | commit  | 2d2a1a3                                      |
 | systems | listopia                                     |
 |---------+----------------------------------------------|
- 
+  
